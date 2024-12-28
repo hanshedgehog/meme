@@ -132,10 +132,10 @@
       <div class="row mt-4">
         <div class="col-md-6">
           <img
-            src="https://via.placeholder.com/500"
-            alt="Hans My Hedgehog"
-            class="img-fluid rounded"
-          />
+           src="Hans.jpg"
+           alt="Hans My Hedgehog"
+           class="img-fluid rounded"
+           />
         </div>
         <div class="col-md-6">
           <p>
