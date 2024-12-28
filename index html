@@ -131,11 +131,11 @@
       <h2>About the Project</h2>
       <div class="row mt-4">
         <div class="col-md-6">
-          //<img
-           //src="https://hanshedgehog.github.io/meme/Hans.jpg"
-          // alt="Hans My Hedgehog"
-           //class="img-fluid rounded"
-          // />
+          <img
+           src="https://hanshedgehog.github.io/meme/Hans.jpg"
+           alt="Hans My Hedgehog"
+           class="img-fluid rounded"
+           />
         </div>
         <div class="col-md-6">
           <p>
