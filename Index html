@@ -132,7 +132,7 @@
       <div class="row mt-4">
         <div class="col-md-6">
           <img
-           src="Hans.jpg"
+           src="./Hans.jpg"
            alt="Hans My Hedgehog"
            class="img-fluid rounded"
            />
